@@ -117,10 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Name</value>
+  <data name="DisplayName" xml:space="preserve">
+    <value>Внешнее обращение</value>
   </data>
-  <data name="Property_Note" xml:space="preserve">
-    <value>Примечание</value>
+  <data name="AccusativeDisplayName" xml:space="preserve">
+    <value>Внешнее обращение</value>
+  </data>
+  <data name="CollectionDisplayName" xml:space="preserve">
+    <value>Внешние обращения</value>
+  </data>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Автор</value>
+  </data>
+  <data name="Property_Result" xml:space="preserve">
+    <value>Результат</value>
+  </data>
+  <data name="Resource_9b3e3a54b9cf4c98a61a213b6cb2225c" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_21400fc84384422295d14c95e52fb94a" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_f6770ac0e6cc44b680d3fa6cbed365e4" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_f6770ac0e6cc44b680d3fa6cbed365e4_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_4a6712703f81493f8542dae23879e3a4" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_4a6712703f81493f8542dae23879e3a4_EmptyText" xml:space="preserve">
+    <value />
   </data>
 </root>
